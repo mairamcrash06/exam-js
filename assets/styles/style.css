@@ -1,0 +1,27 @@
+:root {
+    --dark-color: #252B42;
+    --grey-color: #737373;
+    --scy-color: #00A0C1;
+    --warn-color:#FFA62B;
+}
+/* BASE CONFIG */
+* {
+    padding: 10px;
+    margin: 0;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+button {
+    border: none;
+    background: none;
+}
+
+.content {
+    align-items: center;
+    text-align: center;
+}
+
+
+/* BASE CONFIG */
